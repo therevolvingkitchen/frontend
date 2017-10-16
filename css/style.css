@@ -49,7 +49,7 @@ a {
   Elements
   ================================================== */
 .btn {
-  background-color: rgba(116, 184, 25, 0.65);
+  background-color: #c9302c;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 800;
   color: #fff;
@@ -73,7 +73,7 @@ a {
 
 .btn-ghost:hover {
   background-color: #fff;
-  color: rgba(116, 184, 25, 0.65);
+  color: #c9302c;
 }
 
 section {
@@ -101,7 +101,7 @@ a:hover {
   width: 42px;
   height: 42px;
   border-radius: 50%;
-  background: rgba(116, 184, 25, 0.65);
+  background: #c9302c;
   color: #fff;
   text-align: center;
   font-size: 24px;
@@ -155,7 +155,7 @@ a:hover {
   Header Styling
 ================================================== */
 #header {
-  background: rgba(116, 184, 25, 0.65);
+  background: rgba(200, 204, 195, 0.55);
   height: 70px;
 }
 
@@ -316,7 +316,7 @@ a:hover {
 }
 
 .nav-menu ul li:hover {
-  background: rgba(116, 184, 25, 0.65);
+  background: #c9302c;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -422,11 +422,11 @@ a:hover {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: rgba(116, 184, 25, 0.65);
+  color: #c9302c;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: rgba(116, 184, 25, 0.65);
+  color: #c9302c;
 }
 
 #mobile-body-overly {
@@ -467,7 +467,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: #666;
-  border: 6px solid rgba(116, 184, 25, 0.65);
+  border: 6px solid #c9302c;
   border-radius: 50%;
   padding: 55px 25px 0 25px;
   position: relative;
@@ -516,7 +516,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .features h2 {
-  color: rgba(116, 184, 25, 0.65);
+  color: #c9302c;
 }
 
 .feature-col {
@@ -537,7 +537,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 70px;
   height: 70px;
   margin-bottom: 15px;
-  background: rgba(116, 184, 25, 0.65);
+  background: #c9302c;
   color: #fff;
   font-size: 24px;
   text-align: center;
@@ -547,7 +547,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .feature-col h3 {
-  color: rgba(116, 184, 25, 0.65);
+  color: #c9302c;
 }
 
 .feature-col p {
@@ -560,7 +560,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   Call-to-action Styling
   ================================================== */
 .cta {
-  background-color: rgba(116, 184, 25, 0.65);
+  background-color: #c9302c;
   padding: 25px 0;
 }
 
@@ -592,7 +592,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .portfolio h2 {
-  color: rgba(116, 184, 25, 0.65);
+  color: #c9302c;
   margin-bottom: 25px;
 }
 
@@ -658,7 +658,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   Team Styling
   ================================================== */
 .team h2 {
-  color: rgba(116, 184, 25, 0.65);
+  color: #c9302c;
 }
 
 .team .col-sm-3 {
@@ -706,7 +706,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .team .card:hover .card-title-wrap {
-  background-color: rgba(116, 184, 25, 0.65);
+  background-color: #c9302c;
 }
 
 .team .card:hover .card-title-wrap .card-title, .team .card:hover .card-title-wrap .card-text {
@@ -763,12 +763,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact h2 {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
-  color: rgba(116, 184, 25, 0.65);
+  color: #c9302c;
 }
 
 #contact .info i {
   font-size: 32px;
-  color: rgba(116, 184, 25, 0.65);
+  color: #c9302c;
   float: left;
 }
 
@@ -778,8 +778,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: rgba(116, 184, 25, 0.65);
-  border: 1px solid rgba(116, 184, 25, 0.65);
+  color: #c9302c;
+  border: 1px solid #c9302c;
   display: none;
   text-align: center;
   padding: 15px;
@@ -816,7 +816,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: rgba(116, 184, 25, 0.65);
+  background: #c9302c;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -881,7 +881,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .site-footer .bottom .list-inline a:hover {
-  color: rgba(116, 184, 25, 0.65);
+  color: #c9302c;
 }
 
 .site-footer .credits {
@@ -889,7 +889,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .site-footer .credits a {
-  color: rgba(116, 184, 25, 0.65);
+  color: #c9302c;
 }
 
 /* ==================================================
