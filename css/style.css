@@ -14,7 +14,7 @@ h1,h3 {
   font-family: "Damion", Helvetica, Arial, sans-serif;
 }
 
-p {
+p, li {
   line-height: 1.55;
   color: #333;
   font-size: 400;
@@ -51,7 +51,7 @@ a {
   Elements
   ================================================== */
 .btn {
-  background-color: #c9302c;
+  background-color: #C01B24;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 800;
   color: #fff;
@@ -60,7 +60,7 @@ a {
 }
 
 .btn:hover {
-  background-color: #E04F00;
+  background-color: #ED7E38;
   color: #fff;
 }
 
@@ -75,7 +75,7 @@ a {
 
 .btn-ghost:hover {
   background-color: #fff;
-  color: #c9302c;
+  color: #C01B24;
 }
 
 section {
@@ -103,7 +103,7 @@ a:hover {
   width: 42px;
   height: 42px;
   border-radius: 50%;
-  background: #c9302c;
+  background: #C01B24;
   color: #fff;
   text-align: center;
   font-size: 24px;
@@ -318,7 +318,7 @@ a:hover {
 }
 
 .nav-menu ul li:hover {
-  background: #c9302c;
+  background: #C01B24;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -424,11 +424,11 @@ a:hover {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #c9302c;
+  color: #C01B24;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #c9302c;
+  color: #C01B24;
 }
 
 #mobile-body-overly {
@@ -469,7 +469,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: #666;
-  border: 6px solid #c9302c;
+  border: 6px solid #C01B24;
   border-radius: 50%;
   padding: 55px 25px 0 25px;
   position: relative;
@@ -484,7 +484,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   right: -15px;
   font-family: "Raleway", Helvetica, Arial, sans-serif;
   font-size: 18px;
-  background-color: #E04F00;
+  background-color: #ED7E38;
   position: absolute;
   border-radius: 50%;
   font-weight: 700;
@@ -511,6 +511,17 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /* ==================================================
+  About Styling
+  ================================================== */
+  .about {
+    padding-bottom: 45px;
+  }
+  
+  .about h2 {
+    color: #C01B24;
+  }
+
+/* ==================================================
   Features Styling
   ================================================== */
 .features {
@@ -518,7 +529,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .features h2 {
-  color: #c9302c;
+  color: #C01B24;
 }
 
 .feature-col {
@@ -536,20 +547,20 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .feature-col .feature-icon {
-  width: 70px;
-  height: 70px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 15px;
-  background: #c9302c;
+  background: #C01B24;
   color: #fff;
   font-size: 24px;
   text-align: center;
-  line-height: 70px;
+  line-height: 180px;
   border-radius: 50%;
   display: inline-block;
 }
 
 .feature-col h3 {
-  color: #c9302c;
+  color: #C01B24;
 }
 
 .feature-col p {
@@ -562,7 +573,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   Call-to-action Styling
   ================================================== */
 .cta {
-  background-color: #c9302c;
+  background-color: #C01B24;
   padding: 25px 0;
 }
 
@@ -594,7 +605,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .portfolio h2 {
-  color: #c9302c;
+  color: #C01B24;
   margin-bottom: 25px;
 }
 
@@ -660,7 +671,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   Team Styling
   ================================================== */
 .team h2 {
-  color: #c9302c;
+  color: #C01B24;
 }
 
 .team .col-sm-3 {
@@ -708,7 +719,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .team .card:hover .card-title-wrap {
-  background-color: #c9302c;
+  background-color: #C01B24;
 }
 
 .team .card:hover .card-title-wrap .card-title, .team .card:hover .card-title-wrap .card-text {
@@ -765,12 +776,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact h2 {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
-  color: #c9302c;
+  color: #C01B24;
 }
 
 #contact .info i {
   font-size: 32px;
-  color: #c9302c;
+  color: #C01B24;
   float: left;
 }
 
@@ -780,8 +791,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: #c9302c;
-  border: 1px solid #c9302c;
+  color: #C01B24;
+  border: 1px solid #C01B24;
   display: none;
   text-align: center;
   padding: 15px;
@@ -818,7 +829,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #c9302c;
+  background: #C01B24;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -883,7 +894,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .site-footer .bottom .list-inline a:hover {
-  color: #c9302c;
+  color: #C01B24;
 }
 
 .site-footer .credits {
@@ -891,7 +902,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .site-footer .credits a {
-  color: #c9302c;
+  color: #C01B24;
 }
 
 /* ==================================================
